@@ -1,2 +1,0 @@
-# ReactStyleIssue
-Created with CodeSandbox
